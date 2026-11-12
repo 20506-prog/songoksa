@@ -1,3 +1,6 @@
-├── app.py
-├── requirements.txt
-└── traffic_casualty_model.pkcls
+streamlit>=1.36.0
+Orange3>=3.36.2
+numpy>=1.26.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
